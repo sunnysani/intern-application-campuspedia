@@ -1,5 +1,7 @@
 Repo ini ditujukan untuk apply magang di Campuspedia
 
+Drive: https://s.id/DriveInternCampuspediaSani
+
 Pilihan 1: Web Development <br>
 Pilihan 2: Curriculum Development
 
